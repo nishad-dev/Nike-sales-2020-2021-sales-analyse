@@ -137,7 +137,7 @@ ORDER BY total_sales DESC;
 ## Power BI Dashboard
 
 <p align="center">
-  <img src="dashboard-preview.png" width="900">
+  <img src="pb dashboard.png" width="900">
 </p>
 
 > Replace `dashboard-preview.png` with your actual dashboard screenshot.
